@@ -1,0 +1,16 @@
+{
+	"name": "Alpha_Surface_MATAlpha_Joints_MAT",
+	"id": "fd67288e-7d7e-4dca-a10e-eb72651874db",
+	"tags": null,
+	"materials": [
+		"16ad459d-909a-4ce2-965b-ffd119c7ce6e",
+		"e88ddb1d-c4e3-438c-8224-21307044ecac"
+	],
+	"metadata": {
+		"originalSourceFile": {
+			"id": "d125616c-d0ff-4296-9248-5479768f89e1",
+			"name": "Alpha_Surface_MATAlpha_Joints_MAT",
+			"sceneFileName": "dummy3.babylon"
+		}
+	}
+}

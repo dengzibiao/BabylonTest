@@ -1,0 +1,67 @@
+{
+	"Meshes": [],
+	"Materials": [
+		{
+			"id": "sky",
+			"key": "1c0cb732-6b13-42d2-a8db-e2b867ca2f44",
+			"base64": "data:image/png;base64,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"
+		}
+	],
+	"Textures": [
+		{
+			"id": "common_button_03.png",
+			"key": "c879639d-c9f4-48b1-937f-38748c48f7aa",
+			"base64": "D:/WorkSpace/Babylon/BabylonTest/projects/scene1/files/common_button_03.png"
+		},
+		{
+			"id": "common_button_04.png",
+			"key": "aa3f1dfa-bb74-4434-b8ec-b149d2cfa305",
+			"base64": "D:/WorkSpace/Babylon/BabylonTest/projects/scene1/files/common_button_04.png"
+		}
+	],
+	"Sounds": [],
+	"Scripts": [
+		{
+			"id": "decorators.ts",
+			"key": "decorators.ts",
+			"base64": "../css/images/ts.png",
+			"style": {
+				"borderColor": "#2FA1D6",
+				"borderStyle": "solid",
+				"borderWidth": "0px"
+			}
+		},
+		{
+			"id": "scene",
+			"key": "scene",
+			"base64": "../css/svg/folder-open.svg"
+		},
+		{
+			"id": "scene1",
+			"key": "scene1",
+			"base64": "../css/svg/folder-open.svg"
+		},
+		{
+			"id": "scripts-map.ts",
+			"key": "scripts-map.ts",
+			"base64": "../css/images/ts.png",
+			"style": {
+				"borderColor": "#2FA1D6",
+				"borderStyle": "solid",
+				"borderWidth": "0px"
+			}
+		},
+		{
+			"id": "tools.ts",
+			"key": "tools.ts",
+			"base64": "../css/images/ts.png",
+			"style": {
+				"borderColor": "#2FA1D6",
+				"borderStyle": "solid",
+				"borderWidth": "0px"
+			}
+		}
+	],
+	"Visual Scripts (Beta)": [],
+	"Prefabs (Beta)": []
+}
